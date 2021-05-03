@@ -45,10 +45,3 @@ Given that there are not very many projects over the $25,000 range that were att
 
 I'm not sure how it directly affects the outcome, but one limitation could be that the currency used between the countries have not been standardizes. If we converted all values to one standard, would be able to better asses how successful they were to each other. Seeing as the British Pound outweighs the US dollar, this could lead to some unreliable results. 
 
-#### What are some other possible tables and/or graphs that we could create?
-
-
-
-
-
-- What are some other possible tables and/or graphs that we could create?
