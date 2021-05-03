@@ -29,24 +29,23 @@ https://github.com/roderickspells/kickstarter-analysis/blob/main/Resources/Outco
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+#### What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 
 The first conclusion I can draw about the "Outcomes Based on Launch Date" is that the most successful Kickstarter campaigns are launched in the Summer time, May being the optimal month. This is likely to people having more free time (college students and/or teachers). Summer time is usually the time of year when people are more active in looking for things to participate in.
 
 The second conclusion I can draw is that Kickstarters launching in the fall are the least successful in shear number of successfully launched as well as those that have failed.
 
-
-- What can you conclude about the Outcomes based on Goals?
+#### What can you conclude about the Outcomes based on Goals?
 
 Given that there are not very many projects over the $25,000 range that were attempted, I can conclude that the most successful campaigns were those that less than $1000 up to the $10,000 range. The higher your campaign goal is, the more likely that it would not be successful.
 
 
-- What are some limitations of this dataset?
+#### What are some limitations of this dataset?
 
 I'm not sure how it directly affects the outcome, but one limitation could be that the currency used between the countries have not been standardizes. If we converted all values to one standard, would be able to better asses how successful they were to each other. Seeing as the British Pound outweighs the US dollar, this could lead to some unreliable results. 
 
-- What are some other possible tables and/or graphs that we could create?
+#### What are some other possible tables and/or graphs that we could create?
 
 
 
